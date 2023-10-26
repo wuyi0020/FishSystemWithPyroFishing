@@ -1,0 +1,4 @@
+name: FishSystemWithPyroFishing
+version: '${project.version}'
+main: xyz.bahamutmc.fishsystemwithpyrofishing.FishSystemWithPyroFishing
+api-version: '1.20'
